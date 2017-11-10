@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express-fileuploader": "~0.0.2",
-    "knox": "~0.8.8"
+    "knox": "https://github.com/Twnel/knox/tarball/0.8.10-twnel"
   },
   "devDependencies": {
     "express": "~3.4.4",
